@@ -1,2 +1,2 @@
-# hello-word
-Hello Word Astral Devs !
+# hello-wordl
+Hello Wordl Astral Devs !
